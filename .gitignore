@@ -226,3 +226,8 @@ pickle-email-*.html
 
 # Ignore node_modules
 node_modules/
+
+# Ignore sqlite_database
+database/*.sqlite
+
+.DS_Store
